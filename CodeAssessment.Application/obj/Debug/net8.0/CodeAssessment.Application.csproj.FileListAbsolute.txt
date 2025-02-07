@@ -1,0 +1,15 @@
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\bin\Debug\net8.0\CodeAssessment.Application.deps.json
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\bin\Debug\net8.0\CodeAssessment.Application.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\bin\Debug\net8.0\CodeAssessment.Application.pdb
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\bin\Debug\net8.0\CodeAssessment.Infrastructure.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\bin\Debug\net8.0\CodeAssessment.Infrastructure.pdb
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.csproj.AssemblyReference.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.AssemblyInfoInputs.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.AssemblyInfo.cs
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.csproj.CoreCompileInputs.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAsse.46CAF4D2.Up2Date
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\refint\CodeAssessment.Application.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\CodeAssessment.Application.pdb
+D:\Mani\CodeAssessmentProject\CodeAssessment.Application\obj\Debug\net8.0\ref\CodeAssessment.Application.dll

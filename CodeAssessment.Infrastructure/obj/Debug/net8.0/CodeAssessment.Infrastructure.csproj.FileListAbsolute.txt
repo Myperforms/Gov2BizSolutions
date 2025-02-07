@@ -1,0 +1,12 @@
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.deps.json
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\bin\Debug\net8.0\CodeAssessment.Infrastructure.pdb
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.csproj.AssemblyReference.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.AssemblyInfoInputs.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.AssemblyInfo.cs
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\refint\CodeAssessment.Infrastructure.dll
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\CodeAssessment.Infrastructure.pdb
+D:\Mani\CodeAssessmentProject\CodeAssessment.Infrastructure\obj\Debug\net8.0\ref\CodeAssessment.Infrastructure.dll

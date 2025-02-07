@@ -1,0 +1,60 @@
+﻿@using CodeAssessment.Application.Features.Models
+@model List<Employee>
+
+<div class="form-group row">
+    <h3 class="col-sm-3">All Employee Details</h3>
+    <div class="col-sm-5" style="margin-top:7px;">
+        @if (ViewBag.IsGlobalUser)
+        {
+            <a asp-action="Index" asp-controller="Employee">Create a new Employee</a>
+        }
+    </div>
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Department</th>
+            <th scope="col">Job Tittle</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Remote Status</th>
+            @if (ViewBag.IsGlobalUser)
+            {
+                <th scope="col">Action</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.ID</th>
+                <td>@item.Name</td>
+                <td>@item.Department</td>
+                <td>@item.JobTittle</td>
+                <td>@item.Salary.ToString("#,##0.00")</td>
+                <td>
+                    @if (item.RemoteWorkStatus)
+                    {
+                        <text>Yes</text>
+                    }
+                    else
+                    {
+                        <text>No</text>
+                    }
+                </td>
+                @if (ViewBag.IsGlobalUser)
+                {
+                    <td>
+                        <a asp-controller="Employee" asp-action="Index" asp-route-id="@item.ID"> Edit </a>|
+                        <a href="#" id="DeleteEmployee" data-id="@item.ID"> Delete </a>
+                    </td>
+                }
+            </tr>
+        }
+
+    </tbody>
+</table>
+<script src="~/pagejs/allemployee.js" asp-append-version="true"></script>
